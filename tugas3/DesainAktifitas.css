@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+table,tr,td{
+    font-family: century gothic;
+    color: black ;
+    border: 1px solid black;
+    padding: 5px;
+    background-color: white;
+    }
+ .posisi{
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-top: auto;
+	left: 7px;
+	right: 0;
+	top: 166px;
+	bottom: 0;
+    }
+ body{
+	 background-color:#FFB6C1;
+    background-repeat: no-repeat;
+    background-size: 1480px auto;
+    background-attachment: fixed;
+ }
+ .ukuranFont {
+	font-size: 24px;
+}
